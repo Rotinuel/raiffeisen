@@ -1,12 +1,12 @@
 {
-  "homepage": "https://Rotinuel.github.io/floats",
+  "homepage": "https://Rotinuel.github.io/float.git",
   "name": "raiffeisen",
   "version": "1.9.0",
   "description": "raiffesisen E-Banking",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start"
