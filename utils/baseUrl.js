@@ -1,5 +1,5 @@
 const baseUrl = process.env.NODE_ENV === "production" 
-? 'https://haiper-react.envytheme.com' 
+? 'https://emmanuelisagenius@gmail.com' 
 : 'http://localhost:3000';
 
 export default baseUrl;

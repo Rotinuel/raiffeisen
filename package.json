@@ -1,12 +1,12 @@
 {
-  "homepage": "http://Rotinuel.github.io/raiffeisen",
+  "homepage": "https://Rotinuel.github.io/floats",
   "name": "raiffeisen",
   "version": "1.9.0",
-  "description": "raiffesisen - React Next Online Banking & Payment Template",
+  "description": "raiffesisen E-Banking",
   "main": "index.js",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start"
@@ -27,6 +27,7 @@
     "react-image-lightbox": "^5.1.1",
     "react-modal-video": "^1.2.6",
     "react-owl-carousel3": "^2.2.5",
+    "react-router-dom": "^5.2.0",
     "react-visibility-sensor": "^5.1.1",
     "sass": "^1.32.8",
     "sweetalert2": "^10.16.0",
